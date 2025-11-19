@@ -20,6 +20,6 @@ We plan a custom social media application targetted for such senior citizens.
 
 ## Stack
 - Hosted on AWS cloud, primarily serverless.
-- Mobile app with ReactNative
-- Server side code in TypeScript
+- Mobile app with Flutter
+- Server side code in GoLang
 
